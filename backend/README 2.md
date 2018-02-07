@@ -1,2 +1,0 @@
-# nextree
-Nextree wiki
