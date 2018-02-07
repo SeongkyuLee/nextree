@@ -1,0 +1,17 @@
+.Category {
+    position: relative;
+    width: 20%;
+    border: 1px solid black;
+}
+
+.Category__Image {
+    width: 100%;
+}
+
+.Category__Topic {
+    position: relative;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 0px 3px;
+    display:inline-block;
+}
